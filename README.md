@@ -132,19 +132,9 @@ La ventana de inicio de sesión solicita una contraseña para ingresar a la apli
 
 **Contraseña:** `UNAD`
 
-## Pruebas
-
-El proyecto incluye un archivo `test_models.py` para verificar las operaciones principales del árbol binario de búsqueda.
-
-Para ejecutar las pruebas:
-
-```bash
-python test_models.py
-```
-
 ## Autor
 
-**Estudiante:** [Nombre del estudiante]  
+**Estudiante:** Javier Alejandro Gallo Lozano  
 **Universidad:** Universidad Nacional Abierta y a Distancia (UNAD)  
 **Actividad:** Fase 4 - Implementación de Árboles y Estructuras Binarias  
 **Curso:** Estructura de Datos
